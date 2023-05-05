@@ -1,0 +1,35 @@
+# config.yaml
+
+## Where the samples will be written
+save_data: data-en/run/example
+## Where the vocab(s) will be written
+src_vocab: data-en/run/example.vocab.src
+tgt_vocab: data-en/run/example.vocab.tgt
+# Prevent overwriting existing files in the folder
+overwrite: True
+
+# Corpus opts:
+data:
+    corpus_1:
+        path_src: data-en/src-train.txt
+        path_tgt: data-en/tgt-train.txt
+        weight: 1
+    valid:
+        path_src: data-en/src-val.txt
+        path_tgt: data-en/tgt-val.txt
+
+# Vocabulary files that were just created
+src_vocab: data-en/run/example.vocab.src
+tgt_vocab: data-en/run/example.vocab.tgt
+
+# Train on a single GPU
+world_size: 1
+gpu_ranks: [0]
+
+# Where to save the checkpoints
+save_model: data-en/run/model
+save_checkpoint_steps: 500
+train_steps: 1000
+valid_steps: 500
+
+seed: 42
