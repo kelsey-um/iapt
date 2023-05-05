@@ -11,11 +11,12 @@ overwrite: True
 # Corpus opts:
 data:
     corpus_1:
-        path_src: data-mt/src-train.txt
-        path_tgt: data-mt/tgt-train.txt
+        path_src: data-mt/data/src-train.txt
+        path_tgt: data-mt/data/tgt-train.txt
+        weight: 1
     valid:
-        path_src: data-mt/src-val.txt
-        path_tgt: data-mt/tgt-val.txt
+        path_src: data-mt/data/src-val.txt
+        path_tgt: data-mt/data/tgt-val.txt
 
 # Vocabulary files that were just created
 src_vocab: data-mt/run/example.vocab.src
