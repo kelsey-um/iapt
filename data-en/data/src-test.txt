@@ -1,319 +1,769 @@
-Bakso ingredient Tapioca
-Cleveland country United States
-BBC key person Rona Fairhead
-Aarhus Airport runway name  10L/28R 
-Tarrant County  Texas county seat Fort Worth  Texas
-Abel Hernández club Peñarol
-Iraq official language Arabic
-Bozo the Iron Man creator George Brenner
-Finland language Sami languages
-Lemon genus Citrus
-Philippines ethnic group Chinese Filipino
-Marv Wolfman award Inkpot Award
-Abner (footballer) club Brazil national under-17 football team
-250 Delaware Avenue location United States
-Alan Frew birth place Coatbridge
-Al Asad Airbase icao location identifier  ORAA 
-Ariane 5 maiden flight 2002-12-11
-1. FC Magdeburg manager Jens Härtel
-Curitiba is part of Paraná (state)
-Aleksandra Kovač associated band/associated musical artist K2 (Kovač sisters duo)
-Caterpillar Inc. foundation place United States
-Ayam penyet ingredient Fried chicken
-Aaron Deer background  solo singer 
-Akita Museum of Art address  1-4-2 Nakadori 
-Batchoy ingredient Noodle
-Acharya Institute of Technology city Bangalore
-Al-Wakrah Sport Club league Qatar Stars League
-United Kingdom language English language
-Uruguay language Spanish language
-Bacon sandwich main ingredient  Bread and bacon  with a condiment  often ketchup or brown sauce 
-American Journal of Mathematics frequency  Bimonthly 
-AWH Engineering College established 2001
-Aleksander Barkov  Jr. weight 96.1632 (kilograms)
-Adisham Hall location  Haputale  Sri Lanka 
-Alison O'Donnell instrument Autoharp
-Alpharetta  Georgia area of water 1.0 (square kilometres)
-Duncan Rouleau nationality Americans
-Maple Ridge Township  Alpena County  Michigan country United States
-Aleksandra Kovač birth place Belgrade
-Sycamore  Illinois region DeKalb County  Illinois
-A.C. Cesena ground Stadio Dino Manuzzi
-AFC Ajax full name  Amsterdamsche Football Club Ajax 
-Greece demonym Greeks
-Bhajji related Pakora
-AmeriGas net income 211200000
-Philippines official language Filipino language
-Arlington  Texas is part of Texas
-Ajoblanco ingredient Garlic
-A.D. Isidro Metapán manager Jorge Humberto Rodríguez
-Albennie Jones genre Jazz
-Alan Frew genre Alternative rock
-Aleksander Barkov  Jr. birth place Tampere
-Roger McKenzie (comic book writer) nationality United States
-Celery family Apiaceae
-Adare Manor architect James Pain
-Catalonia leader Parliament of Catalonia
-England religion Church of England
-14th New Jersey Volunteer Infantry Monument country  United States 
-NRBQ genre Country music
-Switzerland legislature Federal Assembly (Switzerland)
-Finland official language Finnish language
-Pakora dish variation Paneer
-A.S. Roma ground Rome
-New York City is part of Manhattan
-320 South Boston Building floor count 22
-AMC Matador class Full-size car
-Acharya Institute of Technology state Karnataka
-Akron  Ohio leader title Mayor
-Andrews County Airport runway length 1773.0
-Texas language English language
-103 Colmore Row location  Colmore Row  Birmingham  England 
-Lahore country Pakistan
-American Civil War commander Abraham Lincoln
-Serie A country Italy
-United States Air Force battle Korean War
-Adirondack Regional Airport runway length 1219.0
-Johns Hopkins University Press country United States
-Abdulsalami Abubakar military branch Nigerian Air Force
-108 St Georges Terrace floor area 39500.0 (square metres)
+Alfred_Garth_Jones death Place Sidcup
+Aleksandre_Guruli club FC_Karpaty_Lviv
+Bakewell_pudding creator "Rutland Arms, Bakewell, in 1820"
+Ardmore_Airport_(New_Zealand) 3rd Runway Length Feet 1960
+Texas largest City Houston
+Manila leader Title "City Council"
+11th_Mississippi_Infantry_Monument location Seminary_Ridge
+A.F.C._Fylde ground Warton,_Fylde
+Alan_Shepard title Chief_of_the_Astronaut_Office
+Akeem_Adams club Ferencvárosi_TC
+Angola,_Indiana is Part Of Steuben_County,_Indiana
+Juan_Perón spouse Eva_Perón
+Al_Anderson_(NRBQ band) associated Band/associated Musical Artist The_Wildweeds
+Battle_of_Antietam is Part Of Military Conflict American_Civil_War
+Administrative_Science_Quarterly abbreviation "Admin. Sci. Q."
+Abilene_Regional_Airport location Identifier "ABI"
+Plymouth_Plaza manufacturer Plymouth_(automobile)
+Antares_(rocket) launch Site Mid-Atlantic_Regional_Spaceport
+Canada official Language French_language
+Aleksandr_Prudnikov club FC_Dynamo_Moscow
+Akron,_Ohio area Of Water 0.88 (square kilometres)
+Jan_Duursema award Eisner_Award
+10_Hygiea epoch 2015-06-27
+11th_Mississippi_Infantry_Monument municipality Gettysburg,_Pennsylvania
+Ab_Klink nationality Netherlands
+William_Anders alma Mater "AFIT, M.S. 1962"
+Binignit ingredient Sweet_potato
+AMC_Matador class Full-size_car
+Alpharetta,_Georgia is Part Of Georgia_(U.S._state)
+Linn_County,_Oregon largest City Albany,_Oregon
+Iraq leader Haider_al-Abadi
+Antonis_Samaras birth Place Athens
+1955_Dodge related Mean Of Transportation DeSoto_Custom
+Aurakles creator Dick_Dillin
+Cornell_University city Ithaca,_New_York
+Appleton,_Wisconsin is Part Of Grand_Chute,_Wisconsin
+Alderney_Airport runway Length 877.0
+Canada official Language French_language
+William_Anders title United_States_Ambassador_to_Norway
+A.S._Gubbio_1910 season 2014
+A_Wizard_of_Mars country United_States
+Akita_Museum_of_Art location Akita,_Akita
+Caterpillar_Inc. location Illinois
+Alaa_Abdul-Zahra club Duhok_SC
+Albert_B._White successor William_M._O._Dawson
+AZAL_PFK full Name "AZAL Peşəkar Futbol Klubu"
+Aaron_Turner associated Band/associated Musical Artist Isis_(band)
+John_Madin birth Place Birmingham
+AIDAluna ship In Service 2009-03-22
+ARA_Veinticinco_de_Mayo_(V-2) ship Beam 24.4
+Aston_Martin_DBS successor Aston_Martin_V8
+Hypermarcas subsidiary Mantecorp
+United_Petrotrin_F.C. ground Palo_Seco_Velodrome
+Turkmenistan_Airlines hub Airport Turkmenbashi_International_Airport
+Ariane_5 diameter 5.4 (metres)
+Alan_Bean mission Apollo_12
+Adam_Holloway nationality United_Kingdom
+European_University_Association headquarter Brussels
+A.C._Cesena ground Italy
+Arion_(comicsCharacter) alternative Name "Ahri'ahn"
+GMA_New_Media location Philippines
+Adam_McQuaid club Boston_Bruins
+Delta_II launch Site Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_17
+Auburn,_Washington is Part Of Pierce_County,_Washington
+Romania leader Klaus_Iohannis
+Travis_County,_Texas largest City Austin,_Texas
+Birmingham governing Body Birmingham_City_Council
+Antares_(rocket) diameter 3.9 (metres)
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg issn Number "1865-8784"
+Catalonia leader Carles_Puigdemont
+Spain leader Felipe_VI_of_Spain
+Antioch,_California population Total 102372
+Abner_(footballer) club Brazil_national_under-17_football_team
+108_St_Georges_Terrace floor Count 50
+Addis_Ababa_City_Hall completion Date 1964
+Aarhus_Airport elevation Above The Sea Level 25.0
+Greece leader Prokopis_Pavlopoulos
+Ayam_penyet region "Nationwide, also can be found in Malaysia and Singapore"
+Albany,_Oregon is Part Of Oregon
+Adare_Manor architect Philip_Charles_Hardwick
+Batchoy main Ingredient "noodles, pork organs, vegetables, chicken, shrimp, beef"
+A-Rosa_Luna ship Power "2 × MTU 16V 2000 M60 engine"
+Alan_Shepard nationality United_States
+Airey_Neave birth Place Knightsbridge
 ELA-3 operator Arianespace
-Abdulsalami Abubakar in office while vice president Mike Akhigbe
-Allama Iqbal International Airport city served Lahore
-Alexandria  Indiana is part of Indiana
-Punjab  Pakistan leader Shehbaz Sharif
-St. Louis leader Francis G. Slay
-Adisham Hall building start date  1927 
-Andra (singer) genre Dance-pop
-Bakewell pudding course  Dessert 
-Abarth foundation place Bologna
-Arrabbiata sauce ingredient Garlic
-Madison County  Indiana country United States
-Madeleine L'Engle influenced by George MacDonald
-ACF Fiorentina season 2014–15 Serie A
-Blockbuster (comicsCharacter) creator Carmine Infantino
-1097 Vicia orbital period 135589000.0
-1 Decembrie 1918 University latin name  Universitas Apulensis 
-Alessio Romagnoli club Italy national under-17 football team
-Greece capital Athens
-Ariane 5 diameter 5.4 (metres)
-FC Spartak Moscow chairman Sergey Rodionov
-Philippines motto  Maka-Diyos  Maka-Tao  Makakalikasan at Makabansa 
-Adonis Georgiadis successor Makis Voridis
-Alfa Romeo 164 transmission  5-speed manual 
-Chicago leader Susana Mendoza
-Abel Hernández club Uruguay national under-20 football team
-Audi A1 related mean of transportation Volkswagen Polo
-France language French language
-A.E Dimitra Efxeinoupolis ground Efxeinoupoli
-Hip hop music stylistic origin Jazz
-Canada language French language
-American Locomotive Company foundation place Schenectady  New York
-Turkmenistan Airlines hub airport Ashgabat International Airport
-Philippines ethnic group Igorot people
-Ace Wilder occupation Songwriter
-American Journal of Mathematics oclc number 1480153
-Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg coden code  AMHAAJ 
-AC Hotel Bella Sky Copenhagen developer Bella Center
-Iraq language Kurdish languages
-3Arena height 28.0 (metres)
-107 Camilla discoverer E. Wells
-Auburn  Washington is part of Washington (state)
-Allen Forrest associated band/associated musical artist The Black Eyed Peas
-Alderney Airport 1st runway surface type Poaceae
-Singapore language Standard Chinese
-James Craig Watson nationality Canada
-Adam Holloway birth place Faversham
-Aarhus Airport elevation above the sea level 25.0
-Alvis Car and Engineering Company successor Rover Company
-Ariane 5 final flight 2003-09-27
-Aaron Hunt birth place West Germany
-Michigan capital Lansing  Michigan
-A Long Long Way media type  Print    Paperback 
-Polish Academy of Sciences region served Poland
-Agnes Ward White death place Parkersburg  West Virginia
-AIDS (journal) issn number  1473-5571 
-Juan Carlos I of Spain predecessor Alfonso XIII of Spain
-1001 Gaussia absolute magnitude 9.7
-Alfred Moore Scales successor James W. Reid (politician)
-Alfredo Zitarrosa record label Orfeo (Uruguayan record label)
-ALCO RS-3 build date  May 1950 - August 1956 
-Akeem Dent birth year 1987
-A-Rosa Luna builder Rostock
-Birmingham leader Labour Party (UK)
-Acharya Institute of Technology outlook ranking 63
-India largest city Mumbai
-Abilene  Texas is part of Texas
-Bakso country Chinese cuisine
-William Anders selected by nasa 1963
-Amatriciana sauce ingredient Tomato
-(66063) 1998 RO1 former name  1999 SN5 
-Wizards at War publisher Harcourt (publisher)
-Into Battle (novel) followed by The Violet Keystone
-Netherlands currency Euro
-County Limerick government type Limerick City and County Council
-Antares (rocket) launch site Mid-Atlantic Regional Spaceport
-Akron  Ohio leader Dan Horrigan
-Alternative rock music subgenre Christian alternative rock
-Bangalore founder Kempe Gowda I
-Agremiação Sportiva Arapiraquense league Campeonato Brasileiro Série C
-Agra Airport iata location identifier  AGR 
-Delta II manufacturer United Launch Alliance
-Akita Prefecture country Japan
-Alhambra ship power  Geared steam engine Humphrys  Tennant and Dykes 140hp 
-Binignit ingredient Coconut milk
-Abraham A. Ribicoff in office while president John F. Kennedy
-United States capital Washington  D.C.
-Washington (state) country United States
-Punjab  Pakistan country Pakistan
-Abraham A. Ribicoff nationality United States
-Philippines leader Aquilino Pimentel III
-Agremiação Sportiva Arapiraquense nickname  ''Alvinegro 
-Aaron Boogaard birth place Saskatchewan
-Allan Shivers birth place Lufkin  Texas
-Elliot See nationality United States
-Alison O'Donnell record label Deram Records
-Atlantic City International Airport elevation above the sea level in feet 75
-Al Anderson (NRBQ band) birth date 1947-03-13
-United Kingdom leader Elizabeth II
-ALV X-1 country origin United States
-Trance music stylistic origin House music
-Orange County Blues FC manager Oliver Wyss
-Auburn  Washington country United States
-Blockbuster (comicsCharacter) creator Gardner Fox
-Ab Klink office  Member of the Senate 
-United States ethnic group African-American
-Ab Klink party Christian Democratic Appeal
-A Loyal Character Dancer number of pages  360 
-Birmingham leader John Clancy (Labour politician)
-Argentina leader Mauricio Macri
-Mid-Atlantic Regional Spaceport Launch Pad 0 associated rocket Antares (rocket)
-A Long Long Way preceded by Annie Dunne
-Addis Ababa City Hall height  42 m 
-United States leader title President of the United States
-Chicago leader Rahm Emanuel
-Alan Bean mission Apollo 12
-Bandeja paisa region Antioquia Department
-Parkersburg  West Virginia country United States
-Ben Urich creator Roger McKenzie (comic book writer)
-1955 Dodge related mean of transportation Plymouth Plaza
-A.C. Chievo Verona league Serie A
-FC Torpedo Moscow chairman Aleksandr Tukmanov
-109 Felicitas epoch 2006-12-31
-Acharya Institute of Technology director  Dr. G. P. Prabhukumar 
-United States ethnic group White Americans
-FC Amkar Perm manager Gadzhi Gadzhiyev
-São José dos Pinhais is part of South Region  Brazil
-Denmark language Greenlandic language
-Dane Whitman Black Knight (comicsCharacter) alternative name  Dane Whitman 
-109 Felicitas rotation period 47487.6
-Andrews County Airport runway name  16/34 
-103 Colmore Row location Birmingham
-Harrietstown  New York is part of New York
-James Craig Watson state of origin Canada
-Blackpool leader Gordon Marsden
-PSV Eindhoven manager Phillip Cocu
-Gruppo Bertone foundation place Italy
-Estádio Municipal Coaracy da Mata Fonseca location Alagoas
-Juan Perón spouse Eva Perón
-Ethiopia language Amharic
-Taylor County  Texas largest city Abilene  Texas
-Batchoy ingredient Beef
-Aaron Hunt youthclub SV Werder Bremen
-Addis Ababa country Ethiopia
-1634  The Bavarian Crisis preceded by 1634  The Baltic War
-American Motors subsidiary Wheel Horse
-Ahmad Kadhim Assad club Al-Quwa Al-Jawiya
-Battle of Salem Church commander Robert E. Lee
-Airey Neave active years end date 1979-03-30
-United States Air Force battle United States invasion of Panama
-United States Army battle Operation Enduring Freedom
-Akron Summit Assault season 2011 PDL season
-Michele Marcolini youthclub Torino F.C.
-Denmark capital Copenhagen
-A.S. Roma season 2014
-Central Español league Uruguayan Segunda División
-Atlanta area total 347.1 (square kilometres)
-Fulton County  Georgia county seat Atlanta
-Aaron Hunt club SV Werder Bremen II
-Austin  Texas is part of Hays County  Texas
-Buenos Aires governing body Buenos Aires City Legislature
-Bakewell tart region Derbyshire Dales
-Into Battle (novel) country Australians
-Cornell University president Elizabeth Garrett
-Alex Day birth place Hornchurch
-200 Public Square floor count 45
-Aaron Turner associated band/associated musical artist Sumac (band)
-(29075) 1950 DA density 3.5 (kilograms)
-103 Colmore Row architectural style Brutalist architecture
-A.F.C. Blackpool league North West Counties Football League
-Atlantic City  New Jersey country United States
-Turkmenistan Airlines hub airport Turkmenabat Airport
-Peter Stöger club Favoritner AC
-Aleksandr Chumakov birth year 1948
-Turkey currency Turkish lira
-Auburn  Alabama population density 368.65 (inhabitants per square kilometre)
-Alberto Teisaire office  Provisional President of the Argentine Senate 
-Allan Shivers party Democratic Party (United States)
-(66063) 1998 RO1 discoverer Lincoln Near-Earth Asteroid Research
-DeSoto Custom successor DeSoto Firedome
-Aaron Turner associated band/associated musical artist Isis (band)
-Randall County  Texas county seat Canyon  Texas
-Andrew White (musician) record label Polydor Records
-Antares (rocket) final flight 2013-09-18
-Barny Cakes country France
-1634  The Bavarian Crisis preceded by Grantville Gazette II
-Ashgabat International Airport runway length 2989.0
-Chicago is part of Illinois
-Adolf Schärf birth place Austria-Hungary
-Anaheim  California is part of Orange County  California
-Attica  Indiana area total 4.14 (square kilometres)
-Albennie Jones genre Blues
-Texas country United States
-Al Anderson (NRBQ band) instrument Singing
-Alex Day genre Folk music
-Albuquerque  New Mexico leader title United States House of Representatives
-Alcatraz Versus the Evil Librarians media type  Print 
-Houston Texans city Houston
-William Anders alma mater  AFIT  M.S. 1962 
-New York City country United States
-Alpharetta  Georgia is part of Fulton County  Georgia
-Philippines leader Pantaleon Alvarez
-Luciano Spalletti club A.S. Roma
-Aaron Boogaard birth date 1986-08-11
-Administrative Science Quarterly issn number  0001-8392 
-Adirondack Regional Airport city served Lake Placid  New York
-New York City is part of Brooklyn
-Abdulsalami Abubakar successor Olusegun Obasanjo
-Baked Alaska country China
-Real Madrid Castilla manager Luis Miguel Ramis
-Hypermarcas type S.A. (corporation)
-Aston Martin V8 related mean of transportation Aston Martin RHAM/1
-Michele Marcolini club Torino F.C.
-World War II commander Benito Mussolini
-Accademia di Architettura di Mendrisio dean Mario Botta
-Aleksandre Guruli club Georgia national football team
-MTU Friedrichshafen parent company Rolls-Royce Power Systems
-Amsterdam Airport Schiphol elevation above the sea level -3.3528
-Adam Koc battle Polish–Soviet War
-AIDAluna status  In service 
-200 Public Square floor area 111484 (square metres)
-Moscow leader Sergey Sobyanin
-Alan Frew birth place Scotland
-Andrews County  Texas largest city Andrews  Texas
-Andrews County Airport runway length 929.0
-Philippines founding date 1898-06-12
-Abel Caballero in office while prime minister Felipe González
-Agustín Barboza death place Asunción
-Aston Martin V8 successor Aston Martin Virage
-A Fortress of Grey Ice media type  Print 
-AZAL Arena location Shuvalan
-Alfred Garth Jones birth place England
-AIDS (journal) academic discipline HIV
-Uruguay anthem National Anthem of Uruguay
-Scotland national under-21 football team coach Ricky Sbragia
-Addis Ababa is part of Addis Ababa Stadium
-Julia Morgan significant building Asilomar State Beach
-A Glastonbury Romance libraryof congress classification  PR6031.O867 
-Alpena County Regional Airport runway name  7/25 
-Allen Forrest active years start year 2005
+1097_Vicia temperature 171.0 (kelvins)
+Aston_Martin_V8 assembly United_Kingdom
+Anderson,_Indiana area Total 107.43 (square kilometres)
+St._Louis is Part Of Kingdom_of_France
+Alison_O'Donnell genre Folk_music_of_Ireland
+Baked_Alaska country China
+3Arena completion Date "December 2008"
+11th_Mississippi_Infantry_Monument state "Pennsylvania"
+Albany,_Georgia country United_States
+Cleveland is Part Of Cuyahoga_County,_Ohio
+Albuquerque,_New_Mexico leader Richard_J._Berry
+Denmark leader Lars_Løkke_Rasmussen
+Akita_Museum_of_Art architect Tadao_Ando
+Chinabank service Banking
+Adare_Manor architect James_Pain
+Abdul_Taib_Mahmud birth Date 1936-05-21
+Alfredo_Zitarrosa record Label Odeon_Records
+Peter_Stöger club Favoritner_AC
+Visvesvaraya_Technological_University city Belgaum
+Alan_B._Miller_Hall tenant Mason_School_of_Business
+ALCO_RS-3 cylinder Count 12
+Eastern_Province,_Sri_Lanka leader Austin_Fernando
+Aston_Martin_V8 assembly "Newport Pagnell, Buckinghamshire, England, United Kingdom"
+Harrietstown,_New_York is Part Of New_York
+Arlington,_Texas area Total 258.2 (square kilometres)
+1001_Gaussia periapsis 419113394.55312 (kilometres)
+William_Anders occupation Fighter_pilot
+Audi_A1 class Supermini
+Adam_Holloway party Conservative_Party_(UK)
+Adonis_Georgiadis office "Minister for Health"
+Abdul_Rahman_Ya'kub has Deputy Stephen_Yong_Kuet_Tze
+Neptun_Werft city Rostock
+Andalusia leader Susana_Díaz
+A.S._Gubbio_1910 league Serie_D
+Philippines leader Aquilino_Pimentel_III
+Aarhus_Airport runway Length 2776.0
+Atlantic_City,_New_Jersey is Part Of Atlantic_County,_New_Jersey
+England religion Church_of_England
+Antwerp mayor Bart_De_Wever
+Alex_Plante club Anyang_Halla
+Elliot_See nationality United_States
+Binignit main Ingredient Sago
+10_Hygiea rotation Period 198803.0
+Aleksandra_Kovač associated Band/associated Musical Artist Kristina_Kovač
+GMA_New_Media location Quezon_City
+United_States ethnic Group White_Americans
+Atlantic_City,_New_Jersey leader Don_Guardian
+AIDS_(journal) issn Number "0269-9370"
+United_States ethnic Group African_Americans
+Abner_W._Sibal office "Member of the Connecticut Senate from the 26th District"
+United_States leader John_Roberts
+Atlanta is Part Of Georgia_(U.S._state)
+Philippines ethnic Group Moro_people
+Al_Anderson_(NRBQ band) genre Country_music
+Andrews_County_Airport 4th Runway Surface Type "Asphalt"
+FC_Torpedo_Moscow chairman Aleksandr_Tukmanov
+Celery family Apiaceae
+Apollo_12 backup Pilot Alfred_Worden
+Canada ethnic Group Black_Canadians
+Aleksandra_Kovač associated Band/associated Musical Artist K2_(Kovač_sisters_duo)
+Alpena_County_Regional_Airport 1st Runway Length Feet 9001
+Ethiopia leader Hailemariam_Desalegn
+Lippincott_Williams_&_Wilkins parent Company Wolters_Kluwer
+Michele_Marcolini club A.C._Lumezzane
+General_Dynamics_Electric_Boat parent Company General_Dynamics
+Akron,_Ohio area Total 161.54 (square kilometres)
+GMA_Network_Center cost 46000000
+Aleksey_Chirikov_(icebreaker) power Type Wärtsilä
+(29075)_1950_DA epoch 2011-Aug-27
+Scotland_national_under-21_football_team coach Ricky_Sbragia
+Buenos_Aires leader Diego_Santilli
+Greenville,_Wisconsin is Part Of Menasha_(town),_Wisconsin
+Scotland_national_under-19_football_team coach Scot_Gemmill
+Denmark leader Lars_Løkke_Rasmussen
+Abilene,_Texas population Density 429.9 (inhabitants per square kilometre)
+United_States leader Joe_Biden
+Ariane_5 final Flight 2009-12-18
+Alderney_Airport elevation Above The Sea Level 88.0
+Akeem_Ayers draft Round "2"
+Akeem_Priestley birth Place Kingston,_Jamaica
+A.C._Chievo_Verona ground Stadio_Marc'Antonio_Bentegodi
+AZ_Alkmaar owner Max_Huiberts
+Addis_Ababa_City_Hall height "42 m"
+(19255)_1994_VK8 mass 5.6 (kilograms)
+Pierce_County,_Washington country United_States
+AFC_Ajax_(amateurs) league Hoofdklasse
+William_Anders mission Apollo_8
+Akeem_Ayers debut Team Tennessee_Titans
+Williamson_County,_Texas largest City Round_Rock,_Texas
+AWH_Engineering_College academic Staff Size 250
+Andrews_County_Airport location Identifier "E11"
+109_Felicitas escape Velocity 0.0473 (kilometrePerSeconds)
+Al_Anderson_(NRBQ band) birth Place Windsor,_Connecticut
+Adams_County,_Pennsylvania has To Its North Cumberland_County,_Pennsylvania
+United_States_Army battle American_Revolutionary_War
+Ska_punk stylistic Origin Ska
+Administrative_Science_Quarterly oclc Number 1461102
+Aleksandre_Guruli club AS_Lyon-Duchère
+Acharya_Institute_of_Technology state Karnataka
+Adam_Holloway birth Place "Faversham, Kent, England"
+Acharya_Institute_of_Technology established 2000
+Audi subsidiary Quattro_GmbH
+A.F.C._Blackpool league North_West_Counties_Football_League
+Alexandria,_Indiana is Part Of Monroe_Township,_Madison_County,_Indiana
+Poland language Polish_language
+Illinois country United_States
+Weymouth_Sands followed By Maiden_Castle_(novel)
+Apollo_12 operator NASA
+Alderney_Airport runway Name "03/21"
+Alexandria,_Indiana population Density 755.3 (inhabitants per square kilometre)
+Alan_Shepard ribbon Award "American Defense Service ribbon.svg"
+A.S._Roma ground Stadio_Olimpico
+A.D._Isidro_Metapán manager Jorge_Humberto_Rodríguez
+United_Kingdom capital London
+Acharya_Institute_of_Technology motto "Nurturing Excellence"
+Alan_Martin_(footballer) club Aldershot_Town_F.C.
+NRBQ genre Country_music
+Albert_B._White birth Place Cleveland
+AIDAstella owner Costa_Crociere
+AIP_Advances publisher American_Institute_of_Physics
+Bakso country Indonesia
+New_York language Arabic
+(410777)_2009_FD mass 8.3 (kilograms)
+Agustín_Barboza death Place Paraguay
+Aston_Martin_Virage related Mean Of Transportation Aston_Martin_DBS
+Aleksandre_Guruli club FC_Zestafoni
+Guiana_Space_Centre location French_Guiana
+Abner_(footballer) club Brazil_national_under-17_football_team
+(66063)_1998_RO1 periapsis 41498400000.0
+Andrews_County_Airport runway Length 929.0
+Accademia_di_Architettura_di_Mendrisio country Switzerland
+A.C._Chievo_Verona number Of Members 39371
+101_Helena absolute Magnitude 8.33
+Ahmedabad country India
+Angola_International_Airport location Ícolo_e_Bengo
+Alison_O'Donnell genre Folk_rock
+Antioch,_California leader Title United_States_House_of_Representatives
+Christian_Burns genre Pop_music
+Bacon_sandwich ingredient Brown_sauce
+Dessert dish Variation Sandesh_(confectionery)
+103_Hera apoapsis 437170000.0 (kilometres)
+Italy capital Rome
+Amsterdam_Airport_Schiphol runway Name "09/27 'Buitenveldertbaan'"
+Asam_pedas region Malay_Peninsula
+Deram_Records genre Pop_music
+United_States demonym Americans
+Pakistan leader Mamnoon_Hussain
+Acta_Mathematica_Hungarica  L C C N_number 83646315
+Adolfo_Suárez_Madrid–Barajas_Airport location Madrid
+Bakso main Ingredient "Ground beef, tapioca, noodle, rice vermicelli, beef broth, kailan, celery, salted vegetables, fried shallots"
+Ann_Arbor,_Michigan leader Title City_Manager
+Baku_Turkish_Martyrs'_Memorial designer "Hüseyin Bütüner and Hilmi Güner"
+Bacon_sandwich dish Variation BLT
+Auburn,_Washington is Part Of King_County,_Washington
+Adonis_Georgiadis birth Place Athens
+Acta_Palaeontologica_Polonica abbreviation "Acta Palaeontol. Pol."
+Canada leader Elizabeth_II
+Acura_TLX assembly Marysville_Auto_Plant
+Alison_O'Donnell record Label Static_Caravan_Recordings
+Battle_of_France commander Hugo_Sperrle
+Japan ethnic Group Chinese_people_in_Japan
+Abilene,_Texas is Part Of Taylor_County,_Texas
+Antwerp country Belgium
+Russia leader Sergey_Naryshkin
+Johns_Hopkins_University_Press country United_States
+A_Long_Long_Way number Of Pages "292"
+Abarth_1000_GT_Coupé body Style "Two door coupé"
+Aaron_Deer origin Indianapolis
+Ardmore_Airport_(New_Zealand) elevation Above The Sea Level 34.0
+Paulo_Sousa club Juventus_F.C.
+Alessio_Romagnoli birth Place Anzio
+Acta_Mathematica_Hungarica publisher Springer_Science+Business_Media
+Chinabank foundation Place Manila
+FC_Amkar_Perm manager Gadzhi_Gadzhiyev
+Sportpark_De_Toekomst tenant Ajax_Youth_Academy
+Abarth founded By Carlo_Abarth
+P&O_(company) location London
+Aaron_Boogaard height 1.905
+Sri_Lanka leader Ranil_Wickremesinghe
+Ab_Klink birth Date 1958-11-02
+Abner_(footballer) club Coritiba_Foot_Ball_Club
+United_Kingdom language English_language
+Steel_Azin_F.C. league Iran_Football's_3rd_Division
+Los_Angeles_Rams city Los_Angeles
+The_Secret_Scripture preceded By A_Long_Long_Way
+Administrative_Science_Quarterly publisher Cornell_University
+Adonis_Georgiadis office "Spokesman of Popular Orthodox Rally"
+Al_Anderson_(NRBQ band) birth Date 1947-03-13
+Aleksandra_Kovač associated Band/associated Musical Artist K2_(Kovač_sisters_duo)
+Polish_Academy_of_Sciences headquarter Warsaw
+Alligator_Records genre Blues
+Ahmet_Ertegun background "non_performing_personnel"
+Arianespace country France
+AC_Hotel_Bella_Sky_Copenhagen tenant Marriott_International
+Baked_Alaska country France
+AFC_Ajax_(amateurs) season 2014
+Atlas_II final Flight 2004-08-31
+Adirondack_Regional_Airport city Served Lake_Placid,_New_York
+Trane type Subsidiary
+American_submarine_NR-1 top Speed 8.334
+Polish_Academy_of_Sciences headquarter Warsaw
+1955_Dodge transmission "3-speed automatic"
+Addis_Ababa country Ethiopia
+Atatürk_Monument_(İzmir) location Turkey
+Arròs_negre main Ingredient "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"
+Greece leader Prokopis_Pavlopoulos
+Attica,_Indiana country United_States
+Rock_and_roll stylistic Origin Country_music
+103_Colmore_Row completion Date 1976
+103_Hera average Speed 18.09 (kilometrePerSeconds)
+Aleksandr_Prudnikov club FC_Rubin_Kazan
+1634:_The_Bavarian_Crisis author "Virginia DeMarce and Eric Flint"
+Greenville,_Wisconsin is Part Of Dale,_Wisconsin
+(19255)_1994_VK8 average Speed 4.56 (kilometrePerSeconds)
+Allen_Forrest birth Place Dothan,_Alabama
+AIP_Advances abbreviation "AIP Adv."
+Chinabank founding Date 1920-08-16
+Adam_McQuaid birth Year 1986
+Amatriciana_sauce ingredient Tomato
+Lahore country Pakistan
+Ace_Wilder genre Hip_hop_music
+Bandeja_paisa ingredient Ground_meat
+AIDAstella ship Class "Sphinx-class cruise ship"
+Monroe_Township,_Madison_County,_Indiana is Part Of Madison_County,_Indiana
+Adolfo_Suárez_Madrid–Barajas_Airport location Alcobendas
+Iraq leader Fuad_Masum
+Albert_Jennings_Fountain battle American_Indian_Wars
+Ampara_Hospital website <http://www.ghampara.gov.lk/>
+Michigan language Spanish_language
+Adare_Manor architect George_Richard_Pain
+Alfa_Romeo_164 transmission "5-speed manual"
+A_Wizard_of_Mars preceded By Wizards_at_War
+Alison_O'Donnell record Label Static_Caravan_Recordings
+Walter_Baade death Place West_Germany
+FC_Torpedo_Moscow chairman Aleksandr_Tukmanov
+Alan_Martin_(footballer) club Scotland_national_under-21_football_team
+Alfred_Giles_(architect) birth Place England
+Aaron_S._Daggett birth Place Maine
+Audi subsidiary Lamborghini
+Aaron_Hunt club Germany_national_under-21_football_team
+Canada anthem O_Canada
+Asher_and_Mary_Isabelle_Richardson_House architect Alfred_Giles_(architect)
+Philippines time Zone Philippine_Standard_Time
+Bandeja_paisa region Antioquia_Department
+France leader Claude_Bartolone
+Antares_(rocket) manufacturer Orbital_ATK
+Anaheim,_California leader Title California_State_Assembly
+Texas demonym Tejano
+AIDAluna ship In Service 2009-03-22
+Andrews_County_Airport runway Length 8.0
+Mexico leader Enrique_Peña_Nieto
+Bionico ingredient Sour_cream
+Aleksandr_Prudnikov club Sparta_Prague
+Beef_kway_teow country "Singapore and Indonesia"
+Alex_Day genre Electronic_music
+Albany,_Georgia is Part Of United_States
+Alaa_Abdul-Zahra club Duhok_SC
+Accademia_di_Architettura_di_Mendrisio number Of Students 600
+Delta_II country Origin United_States
+Greece leader Alexis_Tsipras
+New_York language Arabic
+Greenville,_Wisconsin is Part Of Clayton,_Winnebago_County,_Wisconsin
+Buzz_Aldrin time In Space "52.0"(minutes)
+Serie_A champions Juventus_F.C.
+Saranac_Lake,_New_York is Part Of Harrietstown,_New_York
+Felipe_Gozon alternative Name "Atty. Felipe L. Gozon, FLG"
+Athens_International_Airport city Served Athens
+Rhythm_and_blues stylistic Origin Blues
+United_States ethnic Group White_American
+Sportpark_De_Toekomst owner AFC_Ajax_N.V.
+AmeriGas region Served United_States
+BBC founded By John_Reith,_1st_Baron_Reith
+France leader Gérard_Larcher
+Ardmore_Airport_(New_Zealand) 3rd Runway Length Feet 1960
+Athens_International_Airport runway Length 3800.0
+Alan_B._Miller_Hall location Williamsburg,_Virginia
+Airey_Neave birth Place Knightsbridge
+Atlantic_City_International_Airport runway Surface Type "Asphalt/Concrete"
+Arrabbiata_sauce region Rome
+Adam_Holloway nationality United_Kingdom
+Bionico ingredient Sour_cream
+Atlantic_City_International_Airport city Served Atlantic_City,_New_Jersey
+Ahmad_Kadhim_Assad club Steel_Azin_F.C.
+3Arena location Dublin
+Elliot_See nationality United_States
+Paraguay ethnic Group Mestizo
+Bill_Oddie birth Place Rochdale
+Ab_Klink nationality Netherlands
+Ariane_5 maiden Flight 2008-03-09
+Baked_Alaska ingredient Sponge_cake
+Polish–Soviet_War is Part Of Military Conflict Russian_Civil_War
+Abraham_A._Ribicoff death Place "New York City, New York, U.S."
+11th_Mississippi_Infantry_Monument municipality Gettysburg,_Pennsylvania
+Anderson,_Indiana is Part Of Union_Township,_Madison_County,_Indiana
+103_Colmore_Row floor Count 23
+Lee_County,_Alabama country United_States
+Spain language Spanish_language
+Socialist_Party_(Netherlands) colour Red
+FC_Terek_Grozny manager Rashid_Rakhimov
+110_Lydia rotation Period 39332.9
+Aarhus_Airport runway Length 2777.0
+1097_Vicia temperature 171.0 (kelvins)
+Uruguay leader Raúl_Fernando_Sendic_Rodríguez
+Atlantic_City_International_Airport city Served Atlantic_City,_New_Jersey
+Akron,_Ohio is Part Of United_States
+Acharya_Institute_of_Technology nickname "AIT"
+Adam_McQuaid draft Team Columbus_Blue_Jackets
+Bananaman starring Graeme_Garden
+Big_Hero_6_(film) starring Maya_Rudolph
+Albany,_Oregon population Density 1104.1 (inhabitants per square kilometre)
+Alan_Bean birth Name "Alan LaVern Bean"
+Alan_Martin_(footballer) birth Date 1989-01-01
+Peter_Stöger club SC_Wiener_Neustadt
+Albert_Jennings_Fountain death Place United_States
+Aaron_Turner associated Band/associated Musical Artist House_of_Low_Culture
+Agra_Airport icao Location Identifier "VIAG"
+Italy official Language Italian_language
+Arrabbiata_sauce dish Variation Basil
+American_Motors successor Eagle_(automobile)
+Ardmore_Airport_(New_Zealand) 3rd Runway Surface Type Poaceae
+Abradab origin Katowice
+Bacon_Explosion main Ingredient "Bacon,sausage"
+Stuart_Parker_(footballer) club Sparta_Rotterdam
+Accademia_di_Architettura_di_Mendrisio number Of Students 600
+A.S._Livorno_Calcio ground Livorno
+Auburn,_Washington leader Title Mayor
+Pakistan leader Nawaz_Sharif
+School of Business and Social Sciences at the Aarhus University affiliation European_University_Association
+Aleksandre_Guruli club Georgia_national_football_team
+Tarrant_County,_Texas county Seat Fort_Worth,_Texas
+A_Severed_Wasp libraryof Congress Classification "PS3523.E55 S4 1982"
+Buzz_Aldrin birth Place Glen_Ridge,_New_Jersey
+United_States leader Title President_of_the_United_States
+Andra_(singer) background "solo_singer"
+California language Vietnamese_language
+Amatriciana_sauce dish Variation "Onion, garlic, black pepper, chili"
+Elliot_See selected By Nasa 1962
+New_Hampshire bird Purple_finch
+Aleksandre_Guruli club FC_Dila_Gori
+Al_Anderson_(NRBQ band) instrument Singing
+Accademia_di_Architettura_di_Mendrisio number Of Students 600
+A.E_Dimitra_Efxeinoupolis chairman Antonis_Milionis
+Pacific_Grove,_California country United_States
+Abner_W._Sibal birth Place Ridgewood,_Queens
+Albany,_Georgia country United_States
+Atlantic_City_International_Airport runway Name "4/22"
+Abradab origin Poland
+Alhambra owner P&O_(company)
+American_submarine_NR-1 ship Launch 1969-01-25
+Costa_Crociere location Italy
+Ashgabat_International_Airport elevation Above The Sea Level In Metres 211
+Abner_W._Sibal successor Donald_J._Irwin
+Acharya_Institute_of_Technology director "Dr. G. P. Prabhukumar"
+United_States ethnic Group Native_Americans_in_the_United_States
+Alexandria,_Indiana is Part Of Indiana
+Anderson,_Indiana population Density 523.9 (inhabitants per square kilometre)
+(410777)_2009_FD mean Temperature 258.0 (kelvins)
+Arlington,_Texas area Of Water 82.8 (square kilometres)
+Ariane_5 diameter 5.4 (metres)
+Aaron_Turner origin Massachusetts
+Aaron_Turner genre Ambient_music
+Elliot_See selected By Nasa 1962
+Albuquerque,_New_Mexico area Total 490.9 (square kilometres)
+A.S._Livorno_Calcio full Name "Livorno Calcio S.p.A."
+Arion_(comicsCharacter) alternative Name "Ahri'ahn"
+Socialist_Party_(Netherlands) leader Emile_Roemer
+Aleksandr_Chumakov death Place "Moscow, Russia"
+April_O'Neil creator Peter_Laird
+Binignit main Ingredient Coconut_milk
+Beef_kway_teow ingredient Palm_sugar
+1634:_The_Galileo_Affair language English_language
+Abdulsalami_Abubakar country Nigeria
+Allen_Forrest birth Place "Fort Campbell, KY, raised in Dothan, AL"
+Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg coden Code "AMHAAJ"
+Adam_McQuaid height 1.9558
+Big_Hero_6_(film) starring Jamie_Chung
+Atlas_II launch Site Vandenberg_AFB_Space_Launch_Complex_3
+SV_Werder_Bremen_II manager Alexander_Nouri
+Alan_Martin_(footballer) club Leeds_United_F.C.
+Hypermarcas location São_Paulo
+Indian_Air_Force aircraft Helicopter HAL_Light_Combat_Helicopter
+Ethiopia currency Ethiopian_birr
+Aarhus government Type Magistrate
+Amsterdam_Airport_Schiphol 1st Runway Surface Type Asphalt
+Greece demonym Greeks
+Akeem_Priestley club Jamaica_national_football_team
+Atlantic_City_International_Airport elevation Above The Sea Level In Feet 75
+AMC_Matador manufacturer American_Motors
+England capital London
+Indian_Air_Force aircraft Helicopter HAL_Light_Combat_Helicopter
+Abilene_Regional_Airport runway Name "17R/35L"
+Akeem_Adams club United_Petrotrin_F.C.
+Italy language Italian_language
+Akeem_Priestley youthclub Connecticut_Huskies
+Baked_Alaska country "France, United States or China"
+Italy language Italian_language
+Al_Asad_Airbase runway Name "09L/27R"
+Marriott_International location Bethesda,_Maryland
+Denmark language Faroese_language
+Akeem_Dent birth Date 1987-09-27
+Aleksandre_Guruli club AS_Lyon-Duchère
+Alfred_Garth_Jones birth Year 1872
+Fountain_County,_Indiana country United_States
+La_Crosse,_Wisconsin is Part Of Wisconsin
+A_Loyal_Character_Dancer language English_language
+Attica,_Indiana country United_States
+107_Camilla discoverer B._Zellner
+United_States capital Washington,_D.C.
+Audi_A1 manufacturer Audi
+Adams_Township,_Madison_County,_Indiana country United_States
+Alan_B._Miller_Hall architectural Style Georgian_architecture
+Aaron_S._Daggett battle Battle_of_Antietam
+A.S._Roma league Serie_A
+Spaceport_Florida_Launch_Complex_36 operator United_States_Air_Force
+Abraham_A._Ribicoff birth Place New_Britain,_Connecticut
+Alberto_Teisaire birth Date 1891-05-20
+Arem-arem course "Main course"
+Adam_Maher club AZ_Alkmaar
+Anderson,_Indiana is Part Of Union_Township,_Madison_County,_Indiana
+United_States language English_language
+Kerala leader Kochi
+Trane product Building_Management_System
+FC_Spartak_Moscow ground Otkrytiye_Arena
+Uruguay leader Tabaré_Vázquez
+Bacon_Explosion ingredient Sausage
+Aurakles creator Dick_Dillin
+Ariane_5 final Flight 2004-12-18
+Alison_O'Donnell instrument Bodhrán
+Alison_O'Donnell associated Band/associated Musical Artist Mellow_Candle
+Allan_Shivers successor Ben_Ramsey
+United_States leader Title "Vice President"
+Alfred_Moore_Scales battle Battle_of_Gettysburg
+Greenville,_Wisconsin is Part Of Menasha_(town),_Wisconsin
+AFC_Ajax_(amateurs) full Name "Amsterdamsche Football Club Ajax Amateurs"
+Big_Hero_6_(film) starring Ryan_Potter
+Abraham_A._Ribicoff nationality American
+United_States_Air_Force attack Aircraft Lockheed_AC-130
+Johns_Hopkins_University_Press parent Company Johns_Hopkins_University
+Batagor dish Variation Siomay
+Tennis sport Governing Body International_Tennis_Federation
+Aleksander_Barkov,_Jr. position Centre_(ice_hockey)
+Atlantic_City,_New_Jersey is Part Of New_Jersey
+Aleksander_Barkov,_Jr. birth Place "Tampere, Finland"
+Adisham_Hall location "Haputale, Sri Lanka"
+A.S._Gubbio_1910 season 2014–15_Lega_Pro
+Frank_de_Boer club Al-Shamal_Sports_Club
+1634:_The_Baltic_War author David_Weber
+1001_Gaussia epoch 2015-06-27
+Alan_Frew origin Canada
+Al_Asad_Airbase runway Length 3078.48
+Blockbuster_(comicsCharacter) creator Roger_Stern
+Chicago is Part Of Cook_County,_Illinois
+Singapore language English_language
+Aarhus_Airport elevation Above The Sea Level 25.0
+United_States ethnic Group Native_American
+Makis_Voridis birth Place Athens
+Arem-arem dish Variation Lemper
+Synthpop stylistic Origin New_wave_music
+Alfred_Moore_Scales successor James_Madison_Leach
+107_Camilla discoverer E._Wells
+Aenir media Type "Print"
+William_Anders title United_States_Ambassador_to_Norway
+1955_Dodge alternative Name "Dodge Custom Royal"
+Addiction_(journal) issn Number "0965-2140"
+Acura_TLX layout Front-engine_design
+Massimo_Drago club A.C._Cesena
+AC_Hotel_Bella_Sky_Copenhagen floor Count 23
+ALV_X-1 rocket Stages 2
+Denmark religion Church_of_Denmark
+Al_Anderson_(NRBQ band) active Years Start Year 1966
+Chinabank type Public_company
+Apollo_12 backup Pilot Alfred_Worden
+Alfred_Moore_Scales successor Daniel_Gould_Fowle
+AmeriGas country United_States
+Columbus_Blue_Jackets general Manager Jarmo_Kekäläinen
+Abdul_Rahman_Ya'kub has Deputy Stephen_Yong_Kuet_Tze
+Switzerland anthem Swiss_Psalm
+Abdul_Taib_Mahmud residence Kuching
+Abilene,_Texas country United_States
+Jones_County,_Texas country United_States
+Rock_music stylistic Origin Blues
+Atlanta is Part Of Georgia_(U.S._state)
+300_North_LaSalle completion Date 2009
+Alan_Frew occupation Public_speaking
+Republic_of_Ireland demonym Irish_people
+Aleksey_Chirikov_(icebreaker) length 99.83
+Antonis_Samaras has Deputy Evangelos_Venizelos
+Finland demonym Finns
+Albert_B._White profession Politician
+Amatriciana_sauce ingredient Guanciale
+1634:_The_Ram_Rebellion preceded By 1634:_The_Galileo_Affair
+Guiana_Space_Centre headquarter French_Guiana
+Albennie_Jones genre Rhythm_and_blues
+Abdul_Taib_Mahmud party "Barisan Ra'ayat Jati Sarawak"
+Germany leader Angela_Merkel
+Adolfo_Suárez_Madrid–Barajas_Airport runway Length 4349.0
+Accademia_di_Architettura_di_Mendrisio dean Mario_Botta
+Bacon_sandwich ingredient Ketchup
+Alessio_Romagnoli club A.C._Milan
+Trane type Subsidiary
+United_States leader Title President_of_the_United_States
+Philippines ethnic Group Igorot_people
+109_Felicitas apoapsis 523329000.0 (kilometres)
+10_Hygiea former Name "A900 GA"
+Denmark language Danish_language
+Philippines ethnic Group Ilocano_people
+Anderson,_Indiana is Part Of Indiana
+Germany leader Joachim_Gauck
+1._FC_Köln number Of Members 50000
+Suburban_Legends genre Pop_music
+AMC_Matador assembly Kenosha,_Wisconsin
+London leader Title European_Parliament
+Alan_Frew active Years Start Year 1983
+Accademia_di_Architettura_di_Mendrisio location Ticino
+Appleton_International_Airport 1st Runway Length Feet 8002
+Alberto_Teisaire death Place Buenos_Aires
+Aaron_Deer genre Psychedelia
+Gene_Colan nationality Americans
+GMA_Network_Center cost 46000000
+Anders_Osborne record Label Okeh_Records
+Akeem_Adams club T&TEC_Sports_Club
+1000_Piazzia periapsis 352497000000.0
+Akron,_Ohio area Of Water 0.88 (square kilometres)
+France leader Claude_Bartolone
+A_Long_Long_Way media Type "Print  & Paperback"
+Antioch,_California utc Offset "-8"
+France leader Manuel_Valls
+Airey_Neave active Years Start Date 1974-03-04
+Clyde_F.C. ground Broadwood_Stadium
+Arem-arem country Indonesia
+Bakso region "Nationwide in Indonesia, also popular in neighboring Southeast Asian countries"
+Agnes_Kant nationality Netherlands
+Aleksandr_Prudnikov height 185.0 (centimetres)
+Weymouth_Sands followed By Maiden_Castle_(novel)
+FC_Spartak_Moscow ground Otkrytiye_Arena
+Andrew_Rayel associated Band/associated Musical Artist "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"
+New_Jersey largest City Newark,_New_Jersey
+Alfa_Romeo_164 assembly Milan
+Administrative_Science_Quarterly abbreviation "Admin. Sci. Q."
+1634:_The_Ram_Rebellion preceded By 1634:_The_Galileo_Affair
+Walter_Baade death Place Göttingen
+The_Arrow_(comicsCharacter) creator Paul_Gustavson
+Antares_(rocket) final Flight 2014-07-13
+Adam_McQuaid birth Date 1986-10-12
+Amdavad_ni_Gufa country India
+Ab_Klink birth Place Netherlands
+Switzerland leader Johann_Schneider-Ammann
+Batagor country Indonesia
+Addiction_(journal) publisher "Wiley-Blackwell on behalf of the Society for the Study of Addiction"
+Abner_(footballer) club Real_Madrid_Castilla
+Egg_Harbor_Township,_New_Jersey is Part Of New_Jersey
+Finland official Language Finnish_language
+Akron,_Ohio leader Title Mayor
+Ampara_Hospital location Ampara
+A.F.C._Fylde number Of Members 3180
+Amsterdam_Airport_Schiphol 5th Runway Number 18
+Agremiação_Sportiva_Arapiraquense full Name "Agremiação Sportiva Arapiraquense"
+Akeem_Priestley club Jamaica_national_football_team
+Ashgabat_International_Airport runway Name "12L/30R"
+Gulf_War commander George_H._W._Bush
+American_Civil_War commander Jefferson_Davis
+Massimo_Drago club Vigor_Lamezia
+Chicago is Part Of Cook_County,_Illinois
+MTU_Friedrichshafen city Friedrichshafen
+Akeem_Adams club Trinidad_and_Tobago_national_under-17_football_team
+Baked_Alaska region New_York
+Plymouth_Plaza successor Plymouth_Satellite
+Airbus_Defence_and_Space parent Company Airbus_Group
+Hull_City_A.F.C. manager Steve_Bruce
+1099_Figneria apoapsis 605718000.0 (kilometres)
+Richland_Township,_Madison_County,_Indiana country United_States
+Uruguay anthem National_Anthem_of_Uruguay
+Aleksandr_Prudnikov club FC_Spartak_Moscow
+Abner_W._Sibal successor Donald_J._Irwin
+Ajoblanco ingredient Olive_oil
+Alan_Shepard birth Date "1923-11-18"
+Abarth_1000_GT_Coupé body Style Coupé
+1955_Dodge alternative Name "Dodge Suburban"
+Infraero location Brasília
+Alvis_Car_and_Engineering_Company foundation Place Coventry
+Humphrys,_Tennant_and_Dykes location Deptford
+Adams_County,_Pennsylvania has To Its Southwest Frederick_County,_Maryland
+Finland demonym Finns
+Audi_A1 body Style Hatchback
+Abner_(footballer) birth Date 1996-05-30
+(410777)_2009_FD periapsis 88234300000.0
+103_Hera discoverer James_Craig_Watson
+United_Kingdom leader Elizabeth_II
+101_Helena absolute Magnitude 8.33
+Gus_Poyet club Chelsea_F.C.
+Abarth_1000_GT_Coupé manufacturer Abarth
+Indiana language English_Americans
+SV_Werder_Bremen_II league 3._Liga
+1099_Figneria epoch 2006-12-31
+Ace_Wilder record Label Warner_Music_Group
+Acharya_Institute_of_Technology official School Colour "Blue, White and Orange"
+Al_Kharaitiyat_SC manager Amar_Osim
+Stuart_Parker_(footballer) club KV_Mechelen
+Saranac_Lake,_New_York country United_States
+200_Public_Square location "Cleveland, Ohio 44114"
+Buenos_Aires governing Body Buenos_Aires_City_Legislature
+Akeem_Priestley club Antigua_GFC
+Ariane_5 maiden Flight 2004-03-02
+Antwerp_International_Airport runway Length 600.0
+Harrietstown,_New_York country United_States
+Azerbaijan legislature National_Assembly_(Azerbaijan)
+St._Louis leader Francis_G._Slay
+Binignit region Mindanao
+1000_Piazzia orbital Period 488160.0
+Accademia_di_Architettura_di_Mendrisio number Of Students 600
+A.T._Charlie_Johnson doctoral Advisor Michael_Tinkham
+AIDAluna power Type Caterpillar_Inc.
+AMC_Matador assembly Thames,_New_Zealand
+Dave_Challinor club Colwyn_Bay_F.C.
+300_North_LaSalle architect Pickard_Chilton
+Bacon_sandwich ingredient Bread
+Punjab,_Pakistan leader Shehbaz_Sharif
+1097_Vicia orbital Period 135589000.0
+American_Journal_of_Mathematics frequency "Bimonthly"
+Alfredo_Zitarrosa record Label Orfeo_(Uruguayan_record_label)
+Amatriciana_sauce dish Variation "Onion, garlic, black pepper, chili"
+New_Mexico_House_of_Representatives leader Don_Tripp
+Abraham_A._Ribicoff birth Place Connecticut
+Angola_International_Airport runway Name "South Runway"
+A.S._Livorno_Calcio full Name "Associazione Sportiva"
+FC_Samtredia ground Erosi_Manjgaladze_Stadium
+Tomato family Solanaceae
+United_States ethnic Group African_Americans
+Peter_Stöger club FC_Admira_Wacker_Mödling
+(66391)_1999_KW4 density 2.0 (gramPerCubicCentimetres)
+Aaron_Turner origin Massachusetts
+1099_Figneria epoch 2006-12-31
+Aaron_Deer origin United_States
+Agustín_Barboza birth Place Paraguay
+Julia_Morgan significant Project Hearst_Castle
+Alfred_N._Phillips office "Member of the U.S. House of Representatives from Connecticut's 4th district"
+Ahmad_Kadhim_Assad club Al-Jaish_SC_(Syria)
+Paraguay leader Juan_Afara
+SV_Werder_Bremen_II league 3._Liga
+Republic_of_Ireland demonym Irish_people
+Anderson,_Indiana is Part Of Madison_County,_Indiana
+14th_New_Jersey_Volunteer_Infantry_Monument country "United States"
+Suburban_Legends band Member Brian_Robertson_(trombonist)
+A.S._Gubbio_1910 full Name "Associazione Sportiva Gubbio 1910 Srl"
+Alfons_Gorbach party Austrian_People's_Party
+Abilene_Regional_Airport runway Length 2195.0
+Bangalore founder Kempe_Gowda_I
+A.S._Livorno_Calcio season 2014–15_Serie_B
+SV_Werder_Bremen_II league 3._Liga
+Italy leader Pietro_Grasso
+California_State_Assembly location California_State_Capitol
+Akeem_Adams club United_Petrotrin_F.C.
+Anaheim,_California leader Title United_States_House_of_Representatives
+Asam_pedas main Ingredient "Fish cooked in sour and hot sauce"
+Adams_County,_Pennsylvania has To Its North Cumberland_County,_Pennsylvania
+Alvis_Speed_25 engine 4387.0 (cubicCentimetres)
+Aaron_S._Daggett birth Place Maine
+William_Anders title United_States_Ambassador_to_Norway
+Bakso region "Nationwide in Indonesia, also popular in neighboring Southeast Asian countries"
+Allama_Iqbal_International_Airport runway Length 3310.0
+Sumatra ethnic Group Acehnese_people
+Chinabank foundation Place Insular_Government_of_the_Philippine_Islands
+Al_Kharaitiyat_SC league Qatar_Stars_League
+Akeem_Adams club Central_F.C.
+Aaron_Turner associated Band/associated Musical Artist Mamiffer
+Alpena_County_Regional_Airport owner Alpena_County,_Michigan
+Amsterdam_Airport_Schiphol 4th Runway Surface Type "Asphalt"
+Anderson,_Indiana is Part Of Fall_Creek_Township,_Madison_County,_Indiana
+Karnataka leader Vajubhai_Vala
+United_States_Air_Force transport Aircraft Lockheed_C-130_Hercules
+Asam_pedas region "Sumatra and Malay Peninsula"
+AIP_Advances editor A.T._Charlie_Johnson
+Adolf_Schärf birth Place Austria-Hungary
+Delta_II manufacturer United_Launch_Alliance
+Agustín_Barboza birth Place Paraguay
+Adam_Holloway office Member_of_Parliament_for_Gravesham
+Andra_(singer) associated Band/associated Musical Artist Marius_Moga
+Akeem_Ayers former Team Los_Angeles_Rams
+Aleksandr_Prudnikov club FC_Terek_Grozny
+Peñarol league Uruguayan_Primera_División
+Adonis_Georgiadis office "Deputy Parliamentary Spokesman of Popular Orthodox Rally"
+Alderney_Airport runway Name "08/26"
+Alan_Frew occupation Musician
+Acura_TLX manufacturer Honda

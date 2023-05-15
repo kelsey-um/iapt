@@ -1,4 +1,4 @@
-# config.yaml
+# config-lstm-mt.yaml
 
 ## Where the samples will be written
 save_data: data-mt/run/example
